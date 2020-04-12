@@ -1,0 +1,13 @@
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\bin\Debug\Zapominalka.exe.config
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\bin\Debug\Zapominalka.exe
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\bin\Debug\Zapominalka.pdb
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\MainWindow.g.cs
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\App.g.cs
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka_MarkupCompile.cache
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka_MarkupCompile.lref
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\MainWindow.baml
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka.g.resources
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka.Properties.Resources.resources
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka.csproj.GenerateResource.cache
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka.exe
+C:\Users\yarik\source\repos\Zapominalka\Zapominalka\obj\Debug\Zapominalka.pdb
